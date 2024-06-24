@@ -10,6 +10,9 @@ module.exports = {
         green: '#00cf0a',
         thunder: '#222122',
         baltic_sea: '#1B181C'
+      },
+      backgroundImage: {
+        'hero': "url('/assets/hero-image.png')",
       }
     },
   },
