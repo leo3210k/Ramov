@@ -10,7 +10,8 @@ module.exports = {
         sunglow: '#FBCA2E',
         green: '#00cf0a',
         thunder: '#222122',
-        baltic_sea: '#1B181C'
+        baltic_sea: '#1B181C',
+        mine_shaft: '#212121'
       },
       backgroundImage: {
         'hero': "url('../public/assets/hero-image.png')",
