@@ -2,6 +2,7 @@
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
+    "./public/index.html"
   ],
   theme: {
     extend: {
@@ -12,7 +13,7 @@ module.exports = {
         baltic_sea: '#1B181C'
       },
       backgroundImage: {
-        'hero': "url('/assets/hero-image.png')",
+        'hero': "url('../public/assets/hero-image.png')",
       }
     },
   },
