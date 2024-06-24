@@ -3,7 +3,7 @@ import React from 'react';
 
 function Hero() {
   return (
-    <div className="">
+    <div className="h-screen bg-hero bg-cover bg-center">
       Hello
     </div>
   );
