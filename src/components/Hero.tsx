@@ -16,7 +16,7 @@ function Hero() {
           garantir a conformidade, segurança e eficiência dos seus equipamentos 
           e processos.
         </span>
-        <a className="flex justify-center items-center gap-4 text-xs font-medium text-white bg-green border-solid border-green_darker border-2 rounded-sm self-start py-5 px-10">
+        <a className="flex justify-center items-center gap-4 text-xs font-medium text-white bg-green border-solid border-green_darker border-2 rounded-sm self-start py-5 px-10 mt-8">
           Solicitar um orçamento!
           <img src="/assets/whatsapp.svg" alt="whatsapp" />
         </a>
