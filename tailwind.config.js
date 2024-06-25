@@ -18,6 +18,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero': "url('../public/assets/matheus.svg')",
+        'contact': "linear-gradient(180deg, #ffcc29 0%, #e6c147 100%)"
       }
     },
   },
