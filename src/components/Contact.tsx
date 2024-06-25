@@ -2,8 +2,8 @@ import React from 'react';
 
 function Contact() {
   return (
-    <div className="">
-     Contact
+    <div className="flex flex-col items-center gap-5 bg-contact py-14">
+      
     </div>
   );
 }
