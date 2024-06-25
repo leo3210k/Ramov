@@ -15,6 +15,7 @@ module.exports = {
         mine_shaft: '#212121',
         heavy_metal: '#1E1F1C',
         punga: '#473C16',
+        royal_blue: '#3049E6',
       },
       backgroundImage: {
         'hero': "url('../public/assets/matheus.svg')",
