@@ -10,7 +10,13 @@ function Hero() {
           <span>Garanta a Conformidade e Segurança dos seus Equipamentos com </span>
           <b><i>Nossos Laudos Técnicos e ARTs!</i></b>
         </h1>
-        
+        <span className="text-sm font-medium	text-punga">
+          Na KDP Soluções em Engenharia, oferecemos uma variedade de serviços 
+          de laudos técnicos e ART (Anotação de Responsabilidade Técnica) para 
+          garantir a conformidade, segurança e eficiência dos seus equipamentos 
+          e processos.
+        </span>
+       
       </div>
     </div>
   );
