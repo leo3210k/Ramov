@@ -3,8 +3,8 @@ import React from 'react';
 
 function Hero() {
   return (
-    <div className="h-screen bg-hero bg-cover bg-center">
-      Hello
+    <div className="relative h-screen flex items-center bg-hero bg-right bg-contain bg-no-repeat">
+      
     </div>
   );
 }
