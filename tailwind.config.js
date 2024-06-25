@@ -11,10 +11,11 @@ module.exports = {
         green: '#00cf0a',
         thunder: '#222122',
         baltic_sea: '#1B181C',
-        mine_shaft: '#212121'
+        mine_shaft: '#212121',
+        heavy_metal: '#1E1F1C'
       },
       backgroundImage: {
-        'hero': "url('../public/assets/hero-image.png')",
+        'hero': "url('../public/assets/matheus.svg')",
       }
     },
   },
