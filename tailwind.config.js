@@ -18,9 +18,9 @@ module.exports = {
         royal_blue: '#3049E6',
       },
       backgroundImage: {
-        'hero': "url('../public/assets/matheus.svg')",
+        'hero': "url('../public/assets/images/matheus.svg')",
         'contact': "linear-gradient(180deg, #ffcc29 0%, #e6c147 100%)",
-        'service': "url('../public/assets/services_background.png')",
+        'service': "url('../public/assets/services/services_background.png')",
       }
     },
   },
