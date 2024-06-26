@@ -11,6 +11,7 @@ function App() {
       <Hero />
       <Contact />
       <Services />
+      <WhatsappButton />
     </div>
   );
 }
