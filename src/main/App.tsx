@@ -1,3 +1,4 @@
+import Benefits from '../components/Benefits';
 import Contact from '../components/Contact';
 import Hero from '../components/Hero';
 import Services from '../components/Services';
@@ -12,6 +13,7 @@ function App() {
       <Contact />
       <Services />
       <WhatsappButton />
+      <Benefits />
     </div>
   );
 }
