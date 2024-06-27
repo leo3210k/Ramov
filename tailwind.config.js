@@ -18,25 +18,6 @@ module.exports = {
         royal_blue: '#3049E6',
         gravel: '#545155',
       },
-      /*
-Projeto - AVAC(Pode ser chamado de Climatização)
-Projeto - Exaustão
-Projeto - Máquinas de Fluxo(Pode ser substituído por Bombas e Ventiladores)
-Projeto - Combate contra Incêndio
-Projeto - Gases GLP e Medicinais
-Projeto - Mecânico
-Conformidade e Segurança -  Equipamentos e Máquinas ( NR 12)
-Conformidade e Segurança - Movimentação de carga (NR 11)
-Conformidade e Segurança - Vasos de pressão, Caldeiras e Compressores (NR 13)
-Conformidade e Segurança - Trabalho em Altura (NR 35)
-Conformidade e Segurança - Adequação às Normas Brasileiras
-Conformidade e Segurança - Treinamentos
-Operação - Planejamento de Controle e Manutenção (PCM)
-Operação - Plano de Manutenção, Operação e Controle (PMOC)
-Operação - Plano de Rigging
-Laudo Técnico - ART
-Consultoria Online/Presencial
-*/
       backgroundImage: {
         'hero': "url('../public/assets/images/matheus.svg')",
         'contact': "linear-gradient(180deg, #ffcc29 0%, #e6c147 100%)",
