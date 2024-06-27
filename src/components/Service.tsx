@@ -25,7 +25,10 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
           </div>
         </div>
       </div>
-      
+      <div className="w-full h-[10.1%] flex justify-between items-center bg-mine_shaft px-4">
+        <span className="text-white font-medium tracking-tighter">Saiba Mais</span>
+        <img className="cursor-pointer" src="/assets/icons/down_arrow.svg" alt="down_arrow" />
+      </div>
     </div>
   );
 }
