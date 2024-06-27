@@ -11,7 +11,9 @@ function Services() {
         <span>Nossos </span> 
         <b><i>Serviços Especializados</i></b>
       </h1>
-      
+      <div className="flex flex-wrap justify-center gap-x-5 gap-y-10 mx-24">
+        
+      </div>
     </div>
   );
 }
