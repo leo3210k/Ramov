@@ -19,7 +19,10 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
           <span className="text-lg text-center text-white font-medium mx-4">
             {title} <b><i>{title_bold}</i></b>
           </span>
-          
+          <div className="w-full flex flex-col py-1">
+            <hr className="border-[1.1px] border-gravel"/>
+            <span className="text-white text-[8px] font-medium self-center tracking-wider mt-1">Ramov Projetos e Soluções de Engenharia</span>
+          </div>
         </div>
       </div>
       
