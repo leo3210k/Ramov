@@ -7,6 +7,10 @@ function Services() {
       <div className="text-xs text-mine_shaft font-semibold border-solid border-[1px] border-mine_shaft rounded-full uppercase py-3 px-6">
         contrate nossos serviços!
       </div>
+      <h1 className="text-3xl text-mine_shaft tracking-tight leading-10">
+        <span>Nossos </span> 
+        <b><i>Serviços Especializados</i></b>
+      </h1>
       
     </div>
   );
