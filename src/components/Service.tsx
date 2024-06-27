@@ -15,7 +15,12 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
         <div className="flex justify-center items-center bg-white px-1 py-1 shadow-3xl">
           <img className="w-20" src="/assets/icons/brand.svg" alt="brand" />
         </div>
-        
+        <div className="w-full flex flex-col items-center gap-12">
+          <span className="text-lg text-center text-white font-medium mx-4">
+            {title} <b><i>{title_bold}</i></b>
+          </span>
+          
+        </div>
       </div>
       
     </div>
