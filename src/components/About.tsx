@@ -25,7 +25,10 @@ function About() {
           foco na segurança, conformidade e eficiência
           operacional
         </span>
-        
+        <a className="flex gap-4 text-xs font-medium text-white bg-royal_blue rounded-sm uppercase py-5 px-10 mt-6" href="">
+          fazer parte
+          <img src="/assets/icons/whatsapp.svg" alt="whatsapp" />
+        </a>
       </div>
     </div>
   );
