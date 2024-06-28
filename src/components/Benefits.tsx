@@ -7,6 +7,11 @@ function Benefits() {
         <div className="text-xs text-mine_shaft font-semibold bg-sunglow rounded-full uppercase py-3 px-6">
           aproveite as vantagens!
         </div>
+        <h1 className="text-3xl text-white tracking-tight leading-10">
+          <span>Benefícios </span>
+          <b className="text-sunglow"><i>Exclusivos</i></b>
+        </h1>
+        
         
       </div>
     </div>
