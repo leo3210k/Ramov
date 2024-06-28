@@ -18,6 +18,7 @@ function App() {
       <WhatsappButton />
       <Benefits />
       <Segments />
+      <About />
     </div>
   );
 }
