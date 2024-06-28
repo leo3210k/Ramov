@@ -13,7 +13,11 @@ function Footer() {
         <div className="self-start text-xs text-mine_shaft font-semibold bg-sunglow rounded-full uppercase py-3 px-6">
           redes sociais
         </div>
-        
+        <div className="flex gap-4">
+          
+          
+          
+        </div>
       </div>
     </div>
   );
