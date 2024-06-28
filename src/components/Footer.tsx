@@ -9,7 +9,10 @@ function Footer() {
           © 2024 KDP SOLUÇÕES EM ENGENHARIA – Todos os direitos reservados.
         </span>
       </div>
-      
+      <div className="h-full flex flex-col basis-1/2 gap-3 border-l-[1px] border-mine_shaft pl-6">
+        
+        
+      </div>
     </div>
   );
 }
