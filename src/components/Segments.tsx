@@ -25,7 +25,14 @@ function Services() {
         <span>Nossos serviços são </span> 
         <b><i>ideais para:</i></b>
       </h1>
-      
+      <div className="flex justify-center items-center flex-wrap gap-x-5 gap-y-10 mt-10 mx-12">
+        <Item_list number="01" text="Empresas de construção, agronegócio e indústrias." />
+        <Item_list number="02" text="Locadoras e vendedores de máquinas e equipamentos." />
+        <Item_list number="03" text="Empresas de manutenção de ar condicionado." />
+        <Item_list number="04" text="Parques, buffets, escolas e condomínios." />
+        <Item_list number="05" text="Proprietários de veículos acidentados." />
+        <Item_list number="06" text="Empresas que precisam de responsável técnico." />
+      </div>
       <a className="flex gap-4 text-xs font-medium text-white bg-royal_blue rounded-sm uppercase py-5 px-10 mt-6" href="">
         aproveitar benefícios
         <img src="/assets/icons/whatsapp.svg" alt="whatsapp" />
