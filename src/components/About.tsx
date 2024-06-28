@@ -11,7 +11,10 @@ function About() {
           <span>Quem </span>
           <b><i>Somos</i></b>
         </h1>
-        
+        <h2 className="text-xl font-semibold">
+          Onde outros desistem,
+          nós vamos em frente
+        </h2>
         
         
       </div>
