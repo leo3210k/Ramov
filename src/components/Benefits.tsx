@@ -22,7 +22,14 @@ function Benefits() {
           <span>Benefícios </span>
           <b className="text-sunglow"><i>Exclusivos</i></b>
         </h1>
-        
+        <div className="flex flex-col gap-4">
+          <Item_list text="Conformidade com normas e regulamentos;" />
+          <Item_list text="Segurança e proteção legal;" />
+          <Item_list text="Valorização e segurança dos equipamentos;"/>
+          <Item_list text="Qualidade do ar e segurança dos ambientes;" />
+          <Item_list text="Preservação da integridade dos veículos;" />
+          <Item_list text="Acompanhamento técnico especializado." />
+        </div>
         <a className="flex gap-4 text-xs font-medium text-white bg-royal_blue rounded-sm uppercase py-5 px-10 mt-6" href="">
           aproveitar benefícios
           <img src="/assets/icons/whatsapp.svg" alt="whatsapp" />
