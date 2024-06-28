@@ -1,5 +1,4 @@
 import React from 'react';
-import Service from './Service';
 
 const Item_list = ({ number, text }: { number: string, text: string }) => {
   return (
