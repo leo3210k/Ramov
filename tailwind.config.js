@@ -23,6 +23,7 @@ module.exports = {
         'hero': "url('../public/assets/images/matheus.svg')",
         'contact': "linear-gradient(180deg, #ffcc29 0%, #e6c147 100%)",
         'service': "url('../public/assets/services/services_background.png')",
+        'benefits': "url('../public/assets/images/benefits-background.png')",
         'proj-climatizacao-5': "url('../public/assets/services/project/proj-climatizacao-5.webp')",
         'proj-exaustao-3': "url('../public/assets/services/project/proj-exaustao-3.jpg')",
         'proj-maqflux-4': "url('../public/assets/services/project/proj-maqflux-4.jpg')",
