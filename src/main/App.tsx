@@ -1,10 +1,10 @@
-import Contact from '../components/Contact';
+import './App.css';
 import Hero from '../components/Hero';
+import Contact from '../components/Contact';
 import Services from '../components/Services';
 import WhatsappButton from '../components/WhatsappButton';
 import Benefits from '../components/Benefits';
 import Segments from '../components/Segments';
-import './App.css';
 import React from 'react';
 import About from '../components/About';
 import Footer from '../components/Footer';
