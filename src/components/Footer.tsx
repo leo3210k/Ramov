@@ -10,7 +10,9 @@ function Footer() {
         </span>
       </div>
       <div className="h-full flex flex-col basis-1/2 gap-3 border-l-[1px] border-mine_shaft pl-6">
-        
+        <div className="self-start text-xs text-mine_shaft font-semibold bg-sunglow rounded-full uppercase py-3 px-6">
+          redes sociais
+        </div>
         
       </div>
     </div>
