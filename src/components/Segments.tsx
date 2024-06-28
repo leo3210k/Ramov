@@ -1,6 +1,19 @@
 import React from 'react';
+import Service from './Service';
 
-
+const Item_list = ({ number, text }: { number: string, text: string }) => {
+  return (
+    <div className="w-[22.5rem] h-[10.6rem] flex flex-col border-[1px] border-mine_shaft">
+      <div className="flex justify-between items-center border-b-[1px] border-mine_shaft p-2">
+        <span className="text-3xl font-semibold text-punga">{ number }</span>
+        <img className="bg-mine_shaft p-2" src="/assets/icons/right_down_arrow.svg" alt="right_down_arrow" />
+      </div>
+      <div className="h-full flex items-center px-4">
+        <span className="text-sm text-mine_shaft font-medium">{ text }</span>
+      </div>
+    </div>
+  )
+}
 
 function Services() {
   return (
