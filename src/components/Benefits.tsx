@@ -11,8 +11,11 @@ function Benefits() {
           <span>Benefícios </span>
           <b className="text-sunglow"><i>Exclusivos</i></b>
         </h1>
-        
-        
+      
+        <a className="flex gap-4 text-xs font-medium text-white bg-royal_blue rounded-sm uppercase py-5 px-10 mt-6" href="">
+          aproveitar benefícios
+          <img src="/assets/icons/whatsapp.svg" alt="whatsapp" />
+        </a>
       </div>
     </div>
   );
