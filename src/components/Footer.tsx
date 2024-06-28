@@ -14,7 +14,9 @@ function Footer() {
           redes sociais
         </div>
         <div className="flex gap-4">
-          
+          <div className="border-[1.5px] border-mine_shaft rounded-full cursor-pointer p-2">
+            <img src="/assets/icons/linkedin.svg" alt="linkedin" />
+          </div>
           
           
         </div>
