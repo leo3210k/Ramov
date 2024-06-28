@@ -20,7 +20,9 @@ function Footer() {
           <div className="border-[1.5px] border-mine_shaft rounded-full cursor-pointer p-2">
             <img src="/assets/icons/instagram.svg" alt="instagram" />
           </div>
-          
+          <div className="border-[1.5px] border-mine_shaft rounded-full cursor-pointer p-2">
+            <img src="/assets/icons/facebook.svg" alt="facebook" />
+          </div>
         </div>
       </div>
     </div>
