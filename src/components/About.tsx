@@ -15,7 +15,16 @@ function About() {
           Onde outros desistem,
           nós vamos em frente
         </h2>
-        
+        <span className="text-xs text-punga font-medium">
+          A RamoV é uma empresa direcionada para a
+          área de engenharia mecânica, com foco em
+          soluções que balanceiam inovação, qualidade e
+          custo-benefício para nossos clientes. Como
+          missão, nossa empresa busca proporcionar
+          excelência em serviços de engenharia com um
+          foco na segurança, conformidade e eficiência
+          operacional
+        </span>
         
       </div>
     </div>
