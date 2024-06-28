@@ -18,6 +18,7 @@ module.exports = {
         royal_blue: '#3049E6',
         gravel: '#545155',
         baltic_sea: '#1B181C',
+        selective_yellow: '#FCBC04'
       },
       backgroundImage: {
         'hero': "url('../public/assets/images/matheus.svg')",
