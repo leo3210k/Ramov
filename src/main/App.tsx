@@ -17,6 +17,7 @@ function App() {
       <Services />
       <WhatsappButton />
       <Benefits />
+      <Segments />
     </div>
   );
 }
