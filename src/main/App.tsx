@@ -19,6 +19,7 @@ function App() {
       <Benefits />
       <Segments />
       <About />
+      <Footer />
     </div>
   );
 }
