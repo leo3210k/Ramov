@@ -10,6 +10,7 @@ function About() {
         </span>
       </div>
       <div className="w-1/3 flex flex-col gap-4 bg-mine_shaft_op rounded-sm p-6">
+        <span className="self-start text-xl text-white font-medium border-b-[1px] border-white tracking-tight leading-10 pb-2">Por que Somos Diferentes?</span>
         
       </div>
     </div>
