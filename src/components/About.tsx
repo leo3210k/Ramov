@@ -11,7 +11,9 @@ function About() {
       </div>
       <div className="w-1/3 flex flex-col gap-4 bg-mine_shaft_op rounded-sm p-6">
         <span className="self-start text-xl text-white font-medium border-b-[1px] border-white tracking-tight leading-10 pb-2">Por que Somos Diferentes?</span>
-        
+        <span className="text-sm text-white leading-5">
+          Nossa empresa adota abordagens inovadoras e flexíveis, evitando erros comuns no mercado e garantindo soluções personalizadas. Nosso time dinâmico compromete-se em atender clientes de todos os portes, sendo capaz de lidar com múltiplas demandas com maestria, conforme a situação requisitar. Nossos projetos e soluções priorizam segurança e qualidade, enquanto garantem ser acessíveis para nossos clientes.
+        </span>
       </div>
     </div>
   );
