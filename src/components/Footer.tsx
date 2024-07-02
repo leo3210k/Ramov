@@ -33,7 +33,13 @@ function Footer() {
         <div className="self-start text-xs text-white font-semibold bg-red-700 rounded-full uppercase py-3 px-6">
           redes sociais
         </div>
-        
+        <div className="flex gap-4">
+          <div className="bg-red-700 rounded-full cursor-pointer p-2">
+            <img src="/assets/icons/linkedin.svg" alt="linkedin" />
+          </div>
+          
+          
+        </div>
       </div>
     </div>
   );
