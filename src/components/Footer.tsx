@@ -9,7 +9,11 @@ function Footer() {
           © 2024 KDP SOLUÇÕES EM ENGENHARIA – <br></br> Todos os direitos reservados.
         </span>
       </div>
-    
+      <div className="flex flex-col gap-4">
+        
+        
+        
+      </div>
     </div>
   );
 }
