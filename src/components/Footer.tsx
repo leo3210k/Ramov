@@ -37,7 +37,9 @@ function Footer() {
           <div className="bg-red-700 rounded-full cursor-pointer p-2">
             <img src="/assets/icons/linkedin.svg" alt="linkedin" />
           </div>
-          
+          <div className="bg-red-700 rounded-full cursor-pointer p-2">
+            <img src="/assets/icons/instagram.svg" alt="instagram" />
+          </div>
           
         </div>
       </div>
