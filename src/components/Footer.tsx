@@ -22,7 +22,12 @@ function Footer() {
           </div>
           <span className="text-white font-medium">(86) 98152-1510 / (86) 99577-6691</span>
         </div>
-        
+        <div className="flex items-center gap-4">
+          <div className="bg-red-700 rounded-full p-2">
+            <img className="w-5" src="/assets/icons/email.svg" alt="email" />
+          </div>
+          <span className="text-white font-medium">adm@ramov.com.br</span>
+        </div>
       </div>
     </div>
   );
