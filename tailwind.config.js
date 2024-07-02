@@ -50,6 +50,7 @@ module.exports = {
         '3xl': 'rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;',
       },
       borderImage: {
+        custom: 'border-image: fill 1 linear-gradient(transparent, #1E1F1C);',
       }
     },
   },
