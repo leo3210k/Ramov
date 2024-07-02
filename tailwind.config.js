@@ -22,6 +22,7 @@ module.exports = {
         selective_yellow: '#FCBC04'
       },
       backgroundImage: {
+        'hero': "url('../public/assets/images/matheus1.svg')",
         'service': "url('../public/assets/services/services_background.png')",
         'benefits': "url('../public/assets/images/benefits-background.png')",
         'proj-climatizacao-5': "url('../public/assets/services/project/proj-climatizacao-5.webp')",
