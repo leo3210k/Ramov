@@ -13,6 +13,7 @@ module.exports = {
         thunder: '#222122',
         baltic_sea: '#1B181C',
         mine_shaft: '#212121',
+        mine_shaft_op: 'rgb(33, 33, 33, .95)',
         heavy_metal: '#1E1F1C',
         punga: '#473C16',
         royal_blue: '#3049E6',
@@ -21,8 +22,6 @@ module.exports = {
         selective_yellow: '#FCBC04'
       },
       backgroundImage: {
-        'hero': "url('../public/assets/images/matheus.svg')",
-        'contact': "linear-gradient(180deg, #ffcc29 0%, #e6c147 100%)",
         'service': "url('../public/assets/services/services_background.png')",
         'benefits': "url('../public/assets/images/benefits-background.png')",
         'proj-climatizacao-5': "url('../public/assets/services/project/proj-climatizacao-5.webp')",
@@ -48,7 +47,6 @@ module.exports = {
         '3xl': 'rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;',
       },
       borderImage: {
-        'service': 'fill 1 linear-gradient(red,blue)'
       }
     },
   },
