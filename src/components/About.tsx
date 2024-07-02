@@ -9,7 +9,9 @@ function About() {
           A RamoV Engenharia é uma empresa especializada em oferecer soluções completas e integradas no campo da engenharia. Nosso compromisso é proporcionar serviços de alta qualidade, com foco em inovação, segurança e eficiência, atendendo às necessidades específicas de nossos clientes de todos os tamanhos.
         </span>
       </div>
-      
+      <div className="w-1/3 flex flex-col gap-4 bg-mine_shaft_op rounded-sm p-6">
+        
+      </div>
     </div>
   );
 }
