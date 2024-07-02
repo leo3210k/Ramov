@@ -29,6 +29,12 @@ function Footer() {
           <span className="text-white font-medium">adm@ramov.com.br</span>
         </div>
       </div>
+      <div className="h-full flex flex-col items-center gap-5">
+        <div className="self-start text-xs text-white font-semibold bg-red-700 rounded-full uppercase py-3 px-6">
+          redes sociais
+        </div>
+        
+      </div>
     </div>
   );
 }
