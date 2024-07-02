@@ -3,7 +3,7 @@ import React from 'react';
 const Item_list = ({ text }: { text: string }) => {
   return (
     <div className="flex items-center gap-3">
-      <div className="bg-selective_yellow rounded-full p-1">
+      <div className="bg-red-700 rounded-full p-1">
         <img src="/assets/icons/right_arrow.svg" alt="right_arrow" />
       </div>
       <span className="text-white">{ text }</span>
@@ -13,14 +13,14 @@ const Item_list = ({ text }: { text: string }) => {
 
 function Benefits() {
   return (
-    <div className="h-[99vh] flex items-center bg-baltic_sea bg-benefits bg-[right_2rem] bg-contain bg-no-repeat">
+    <div className="h-[99vh] flex items-center bg-baltic_sea bg-benefits bg-contain bg-no-repeat">
       <div className="flex flex-col items-start gap-8 ml-48">
-        <div className="text-xs text-mine_shaft font-semibold bg-sunglow rounded-full uppercase py-3 px-6">
+        <div className="text-xs text-white font-semibold bg-red-700 rounded-full uppercase py-3 px-6">
           aproveite as vantagens!
         </div>
         <h1 className="text-3xl text-white tracking-tight leading-10">
           <span>Benefícios </span>
-          <b className="text-sunglow"><i>Exclusivos</i></b>
+          <b className="text-red-700"><i>Exclusivos</i></b>
         </h1>
         <div className="flex flex-col gap-4">
           <Item_list text="Conformidade com normas e regulamentos;" />
