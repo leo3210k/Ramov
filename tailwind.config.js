@@ -23,6 +23,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero': "url('../public/assets/images/matheus1.svg')",
+        'contact': "url('../public/assets/images/contact-background1.jpg')",
         'service': "url('../public/assets/services/services_background.png')",
         'benefits': "url('../public/assets/images/benefits-background.png')",
         'proj-climatizacao-5': "url('../public/assets/services/project/proj-climatizacao-5.webp')",
