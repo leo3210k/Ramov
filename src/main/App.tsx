@@ -2,7 +2,7 @@ import './App.css';
 import Hero from '../components/Hero';
 import Contact from '../components/Contact';
 import Services from '../components/Services';
-import WhatsappButton from '../components/WhatsappButton';
+import WhatsappButton from '../components/utils/WhatsappIcon';
 import Benefits from '../components/Benefits';
 import Segments from '../components/Segments';
 import React from 'react';
