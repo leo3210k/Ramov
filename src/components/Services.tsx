@@ -1,5 +1,6 @@
 import React from 'react';
-import Service from './Service';
+import Service from './utils/Service';
+import WhatsappButton from './utils/WhatsappButton';
 
 function Services() {
   return (
@@ -30,10 +31,7 @@ function Services() {
         <Service title="Laudo Técnico -" title_bold="ARK" background="bg-laudo&consult-laudo-3" />
         <Service title="Consultoria " title_bold="Online/Presencial" background="bg-laudo&consult-consult-2" />
       </div>
-      <a className="flex gap-4 text-xs font-medium text-white bg-royal_blue rounded-sm uppercase py-5 px-10 mt-8" href="">
-        faça um orçamento
-        <img src="/assets/icons/whatsapp.svg" alt="whatsapp" />
-      </a>
+      <WhatsappButton text="faça um orçamento" background_color="bg-royal_blue"/>
     </div>
   );
 }
