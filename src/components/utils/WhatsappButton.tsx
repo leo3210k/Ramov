@@ -1,10 +1,12 @@
 import React from 'react';
 
-function WhatsappButton({ background_color, text}: { background_color: string, text: string }) {
+function WhatsappButton({ background_color, text }: { background_color: string, text: string }) {
   return (
-    <div className="text-xs text-white font-semibold bg-red-700 rounded-full uppercase py-3 px-6">
-      aproveite as vantagens!
-    </div>
+    <a className={`flex gap-4 text-xs font-medium text-white bg-${background_color} rounded-sm uppercase py-5 px-10 mt-6`} 
+      href="">
+      { text }
+      <img src="/assets/icons/whatsapp.svg" alt="whatsapp" />
+    </a>
   );
 }
 
