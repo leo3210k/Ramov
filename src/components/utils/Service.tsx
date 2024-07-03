@@ -14,7 +14,9 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
   const [knowMore, setKnowMore] = useState(false)
 
   return (
-    
+    <div className={`w-52 ${knowMore ? 'h-auto' : 'h-[25.6rem]'} flex flex-col items-center`}>
+      
+    </div>
   );
 }
 
