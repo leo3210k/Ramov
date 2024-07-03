@@ -2,12 +2,14 @@ import React from 'react';
 import { ReactComponent as WhatsappIcon } from '../../assets/icons/whatsapp.svg';
 
 
-function WhatsappButton({ background_color, text, classes }: { background_color: string, text: string, classes?: string }) {
+function WhatsappButton({ color, text, classes }: { color: string, text: string, classes?: string }) {
   return (
-    <a className={`flex gap-4 text-xs font-medium text-white ${background_color} group hover:border-[1px] hover:border-royal_blue
-      rounded-sm uppercase py-5 px-10 mt-6 hover:-translate-y-3 transition-transform ease-in-out duration-500	
-      hover:bg-transparent hover:text-royal_blue ${classes}`} 
-      href="">
+    <a className={`flex gap-4 text-xs font-medium text-white 
+    ${color == 'royal_blue' ? 'bg-royal_blue border-royal_blue' : 'bg-green border-green'} 
+    group hover:border-[1px] hover:border-royal_blue
+    rounded-sm uppercase py-5 px-10 mt-6 hover:-translate-y-3 transition-transform ease-in-out duration-500	
+    hover:bg-transparent hover:text-royal_blue ${classes}`} 
+    href="">
       { text }
       <WhatsappIcon className="fill-white group-hover:fill-royal_blue"/>
     </a>
