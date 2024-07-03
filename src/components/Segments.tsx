@@ -34,7 +34,7 @@ function Segments() {
         <Item_list number="05" text="Proprietários de veículos acidentados." />
         <Item_list number="06" text="Empresas que precisam de responsável técnico." />
       </div>
-      <WhatsappButton text="aproveitar benefícios" color="royal_blue"/>
+      <WhatsappButton text="aproveitar benefícios" background_color="bg-royal_blue"/>
     </div>
   );
 }

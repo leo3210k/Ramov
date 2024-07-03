@@ -16,7 +16,7 @@ function Contact() {
         Estamos prontos para oferecer soluções personalizadas 
         para suas necessidades.
       </p>
-      <WhatsappButton text="entrar em contato" color="royal_blue"/>
+      <WhatsappButton text="entrar em contato" background_color="bg-royal_blue"/>
     </div>
   );
 }

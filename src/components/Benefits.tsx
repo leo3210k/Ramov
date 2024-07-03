@@ -32,7 +32,7 @@ function Benefits() {
           <Item_list text="Preservação da integridade dos veículos;" />
           <Item_list text="Acompanhamento técnico especializado." />
         </div>
-        <WhatsappButton text="aproveitar benefícios" color="royal_blue"/>
+        <WhatsappButton text="aproveitar benefícios" background_color="bg-royal_blue"/>
       </div>
     </div>
   );
