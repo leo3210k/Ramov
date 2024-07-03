@@ -31,7 +31,7 @@ function Services() {
         <Service title="Laudo Técnico -" title_bold="ARK" background="bg-laudo&consult-laudo-3" />
         <Service title="Consultoria " title_bold="Online/Presencial" background="bg-laudo&consult-consult-2" />
       </div>
-      <WhatsappButton text="faça um orçamento" background_color="bg-royal_blue"/>
+      <WhatsappButton text="faça um orçamento" color="royal_blue"/>
     </div>
   );
 }
