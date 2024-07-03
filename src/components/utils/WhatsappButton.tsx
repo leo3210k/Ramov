@@ -9,7 +9,7 @@ function WhatsappButton({ background_color, text, classes }: { background_color:
       hover:bg-transparent hover:text-royal_blue ${classes}`} 
       href="">
       { text }
-      <WhatsappIcon className="fill-white"/>
+      <WhatsappIcon className="fill-white group-hover:fill-royal_blue"/>
     </a>
   );
 }
