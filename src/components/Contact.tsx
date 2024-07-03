@@ -1,5 +1,6 @@
 import React from 'react';
 import './Contact.css';
+import WhatsappButton from './utils/WhatsappButton';
 
 function Contact() {
   return (
@@ -15,10 +16,7 @@ function Contact() {
         Estamos prontos para oferecer soluções personalizadas 
         para suas necessidades.
       </p>
-      <a className="flex gap-4 text-xs font-medium text-white bg-royal_blue rounded-sm uppercase py-5 px-10 mt-8" href="">
-        entrar em contato
-        <img src="/assets/icons/whatsapp.svg" alt="whatsapp" />
-      </a>
+      <WhatsappButton text="entrar em contato" background_color="bg-royal_blue"/>
     </div>
   );
 }
