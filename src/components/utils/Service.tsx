@@ -15,6 +15,9 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
 
   return (
     <div className={`w-52 ${knowMore ? 'h-auto' : 'h-[25.6rem]'} flex flex-col items-center`}>
+      <div className={`service w-full basis-[90%] flex flex-col justify-between items-center ${background} bg-${position} bg-cover`}>
+        
+      </div>
       
     </div>
   );
