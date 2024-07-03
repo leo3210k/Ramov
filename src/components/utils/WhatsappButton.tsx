@@ -1,5 +1,6 @@
 import React from 'react';
-import whatsappIcon from '../../assets/icons/whatsapp.svg';
+import { ReactComponent as WhatsappIcon } from '../../assets/icons/whatsapp.svg';
+
 
 function WhatsappButton({ color, text, classes }: { color: string, text: string, classes?: string }) {
   return (
@@ -8,7 +9,7 @@ function WhatsappButton({ color, text, classes }: { color: string, text: string,
       hover:bg-transparent hover:text-royal_blue ${classes}`} 
       href="">
       { text }
-      <img className="stroke-white" src={whatsappIcon} alt="whatsapp" />
+      <WhatsappIcon className="stroke-white"/>
     </a>
   );
 }
