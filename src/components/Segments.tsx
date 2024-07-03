@@ -1,4 +1,5 @@
 import React from 'react';
+import WhatsappButton from './utils/WhatsappButton';
 
 const Item_list = ({ number, text }: { number: string, text: string }) => {
   return (
@@ -32,10 +33,7 @@ function Segments() {
         <Item_list number="05" text="Proprietários de veículos acidentados." />
         <Item_list number="06" text="Empresas que precisam de responsável técnico." />
       </div>
-      <a className="flex gap-4 text-xs font-medium text-white bg-royal_blue rounded-sm uppercase py-5 px-10 mt-6" href="">
-        aproveitar benefícios
-        <img src="/assets/icons/whatsapp.svg" alt="whatsapp" />
-      </a>
+      <WhatsappButton text="aproveitar benefícios" background_color="bg-royal_blue"/>
     </div>
   );
 }
