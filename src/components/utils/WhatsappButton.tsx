@@ -6,7 +6,7 @@ function WhatsappButton({ color, text, classes }: { color: string, text: string,
   return (
     <a className={`flex gap-4 text-xs font-medium text-white 
     ${color == 'royal_blue' ? 'bg-royal_blue border-royal_blue' : 'bg-green border-green'} 
-    group hover:border-[1px] hover:border-royal_blue
+    border-[1px] group hover:border-royal_blue
     rounded-sm uppercase py-5 px-10 mt-6 hover:-translate-y-3 transition-transform ease-in-out duration-500	
     hover:bg-transparent hover:text-royal_blue ${classes}`} 
     href="">
