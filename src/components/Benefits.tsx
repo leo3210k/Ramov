@@ -1,11 +1,12 @@
 import React from 'react';
 import WhatsappButton from './utils/WhatsappButton';
+import right_arrow from '../assets/icons/right_arrow.svg'
 
 const Item_list = ({ text }: { text: string }) => {
   return (
     <div className="flex items-center gap-3">
       <div className="bg-red-700 rounded-full p-1">
-        <img src="/assets/icons/right_arrow.svg" alt="right_arrow" />
+        <img src={right_arrow} alt="right_arrow" />
       </div>
       <span className="text-white">{ text }</span>
     </div>

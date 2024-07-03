@@ -1,5 +1,7 @@
 import React from 'react';
 import './Service.css';
+import dark_brand from '../../assets/icons/brand_dark.svg'
+import down_arrow from '../../assets/icons/down_arrow.svg'
 
 interface ServiceProps {
   title: string;
@@ -13,7 +15,7 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
     <div className="w-52 h-[410px] flex flex-col items-center">
       <div className={`service w-full h-[90%] flex flex-col justify-between items-center ${background} bg-${position} bg-cover`}>
         <div className="flex justify-center items-center bg-white px-1 py-1 shadow-3xl">
-          <img className="w-20" src="/assets/icons/brand_dark.svg" alt="brand" />
+          <img className="w-20" src={dark_brand} alt="brand" />
         </div>
         <div className="w-full flex flex-col items-center gap-12">
           <span className="text-lg text-center text-white font-medium mx-4">
@@ -27,7 +29,7 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
       </div>
       <div className="w-full h-[10.1%] flex justify-between items-center bg-mine_shaft px-4">
         <span className="text-white font-medium tracking-tighter">Saiba Mais</span>
-        <img className="cursor-pointer" src="/assets/icons/down_arrow.svg" alt="down_arrow" />
+        <img className="cursor-pointer" src={down_arrow} alt="down_arrow" />
       </div>
     </div>
   );
