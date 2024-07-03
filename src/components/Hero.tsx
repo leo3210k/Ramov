@@ -17,7 +17,7 @@ function Hero() {
           garantir a conformidade, segurança e eficiência dos seus equipamentos 
           e processos.
         </span>
-        <WhatsappButton text="Solicitar um orçamento!" background_color="bg-green" classes="self-start" />
+        <WhatsappButton text="Solicitar um orçamento!" color="green" classes="self-start" />
       </div>
     </div>
   );
