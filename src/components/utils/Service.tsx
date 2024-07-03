@@ -32,7 +32,8 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
       <div className={`w-full flex flex-col items-center ${knowMore ? 'basis-auto' : 'basis-[10%]'} transition-[basis] ease-in-out duration-500 bg-mine_shaft px-4 py-2`}>
         <div className='w-full flex justify-between items-center'>
           <span className="text-white font-medium tracking-tighter">Saiba Mais</span>
-          <img onClick={() => setKnowMore(!knowMore)} className={`cursor-pointer`} src={down_arrow} alt="down_arrow" />
+          <img onClick={() => setKnowMore(!knowMore)} className={`cursor-pointer 
+            ${knowMore ? 'rotate-180' : 'rotate-0'} transition-transform ease-in-out duration-700`} src={down_arrow} alt="down_arrow" />
         </div>
         
       </div>
