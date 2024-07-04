@@ -4,7 +4,7 @@ import WhatsappButton from './utils/WhatsappButton';
 
 function Contact() {
   return (
-    <div className="contact flex flex-col items-center gap-5 bg-contact bg-cover bg-no-repeat bg-fixed py-14">
+    <div className="contact flex flex-col items-center gap-5 bg-contact bg-cover bg-no-repeat bg-fixed py-14 px-4">
       <div className="text-xs text-white font-semibold border-solid border-[1px] border-white rounded-full py-3 px-6">FALE COM A GENTE!</div>
       <h1 className="text-3xl text-white tracking-tight leading-10">
         <span>Entre em contato </span> 
