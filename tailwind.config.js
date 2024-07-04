@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens: {
+        'xs': '460px'
+      },
       colors: {
         alabaster: '#fafafa',
         sunglow: '#FBCA2E',
