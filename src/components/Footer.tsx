@@ -41,13 +41,13 @@ function Footer() {
           redes sociais
         </div>
         <div className="flex gap-4">
-          <div className="bg-gravel rounded-full cursor-pointer p-2">
+          <div className="bg-gravel rounded-full cursor-pointer hover:scale-125 transition-transform ease-in-out duration-100 p-2">
             <img src={linkedin} alt="linkedin" />
           </div>
-          <div className="bg-gravel rounded-full cursor-pointer p-2">
+          <div className="bg-gravel rounded-full cursor-pointer hover:scale-125 transition-transform ease-in-out duration-100 p-2">
             <img src={instagram} alt="instagram" />
           </div>
-          <div className="bg-gravel rounded-full cursor-pointer p-2">
+          <div className="bg-gravel rounded-full cursor-pointer hover:scale-125 transition-transform ease-in-out duration-100 p-2">
             <img src={facebook} alt="facebook" />
           </div>
         </div>
