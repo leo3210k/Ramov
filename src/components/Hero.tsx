@@ -4,7 +4,7 @@ import dark_brand from '../assets/icons/brand_dark.svg';
 
 function Hero() {
   return (
-    <div className="relative lg:h-screen flex items-center lg:bg-hero bg-right bg-contain bg-no-repeat p-6">
+    <div className="relative h-[85vh] lg:h-screen flex items-center lg:bg-hero bg-right bg-contain bg-no-repeat p-6">
       <div className="lg:w-2/6 flex flex-col text-left gap-6 lg:ml-36">
         <img className="w-36" src={dark_brand} alt="brand" />
         <h1 className="text-3xl tracking-tight leading-10">
