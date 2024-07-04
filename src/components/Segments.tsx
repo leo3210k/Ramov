@@ -26,7 +26,7 @@ function Segments() {
         <span>Nossos serviços são </span> 
         <b><i>ideais para:</i></b>
       </h1>
-      <div className="flex justify-center items-center flex-wrap gap-x-5 gap-y-10 mt-10 mx-12">
+      <div className="flex justify-center items-center flex-wrap gap-x-5 gap-y-10 mt-8 mx-12">
         <Item_list number="01" text="Empresas de construção, agronegócio e indústrias." />
         <Item_list number="02" text="Locadoras e vendedores de máquinas e equipamentos." />
         <Item_list number="03" text="Empresas de manutenção de ar condicionado." />
