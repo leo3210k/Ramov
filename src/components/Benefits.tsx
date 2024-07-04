@@ -20,7 +20,7 @@ function Benefits() {
         <div className="text-xs text-white font-semibold bg-red-700 rounded-full uppercase py-3 px-6">
           aproveite as vantagens!
         </div>
-        <h1 className="text-3xl text-white tracking-tight leading-10">
+        <h1 className="text-3xl text-center text-white tracking-tight leading-10">
           <span>Benefícios </span>
           <b className="text-red-700"><i>Exclusivos</i></b>
         </h1>
