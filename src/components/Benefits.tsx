@@ -16,7 +16,7 @@ const Item_list = ({ text }: { text: string }) => {
 function Benefits() {
   return (
     <div className="flex justify-center md:justify-normal items-center bg-baltic_sea lg:bg-benefits bg-right bg-contain bg-no-repeat py-24">
-      <div className="flex flex-col xs:items-start gap-8 md:ml-48">
+      <div className="flex flex-col items-center xs:items-start gap-8 md:ml-48">
         <div className="text-xs text-white font-semibold bg-red-700 rounded-full uppercase py-3 px-6">
           aproveite as vantagens!
         </div>
