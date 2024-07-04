@@ -10,7 +10,7 @@ function Contact() {
         <span>Entre em contato </span> 
         <b><i>conosco!</i></b>
       </h1>
-      <p className="md:w-4/6 lg:w-3/6 text-center text-sm text-alabaster font-medium">
+      <p className="md:w-4/6 lg:w-3/6 text-center text-sm text-alabaster font-medium mt-2">
         Entre em contato conosco para saber mais sobre 
         como nossos serviços podem beneficiar o seu negócio. 
         Estamos prontos para oferecer soluções personalizadas 
