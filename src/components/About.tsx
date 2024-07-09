@@ -7,7 +7,7 @@ function About() {
         <span className="self-start text-lg md:text-xl text-white font-medium border-b-[1px] border-white tracking-tight pb-2">
           Quem Somos?
         </span>
-        <span className="text-xs sm:text-sm text-white leading-5">
+        <span className="text-xs md:text-sm text-white leading-5">
           A RamoV Engenharia é uma empresa especializada em oferecer soluções
           completas e integradas no campo da engenharia. Nosso compromisso é
           proporcionar serviços de alta qualidade, com foco em inovação,
@@ -19,7 +19,7 @@ function About() {
         <span className="self-start text-lg md:text-xl text-white font-medium border-b-[1px] border-white tracking-tight pb-2">
           Por que Somos Diferentes?
         </span>
-        <span className="text-xs sm:text-sm text-white leading-5">
+        <span className="text-xs md:text-sm text-white leading-5">
           Nossa empresa adota abordagens inovadoras e flexíveis, evitando erros
           comuns no mercado e garantindo soluções personalizadas. Nosso time
           dinâmico compromete-se em atender clientes de todos os portes, sendo
