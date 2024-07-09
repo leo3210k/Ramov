@@ -9,7 +9,7 @@ import facebook from '../assets/icons/facebook.svg'
 
 function Footer() {
   return (
-    <div className="flex flex-wrap justify-evenly items-center gap-x-4 gap-y-8 bg-heavy_metal py-16 px-4">
+    <div className="flex flex-wrap justify-evenly items-center gap-x-6 gap-y-10 bg-heavy_metal py-16 px-4">
       <div className="flex flex-col items-center">
         <img className="w-32 xs:w-48" src={light_brand} alt="brand" />
         <span className="text-xs xs:text-sm text-white text-center font-medium">
