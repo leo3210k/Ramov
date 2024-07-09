@@ -21,19 +21,19 @@ function Footer() {
           <div className="bg-red-700 rounded-full p-2">
             <img className="w-4 xs:w-5" src={location} alt="localidade" />
           </div>
-          <span className="text-white">Rua Teófilo dos Santos, 1555, Morada do Sol</span>
+          <span className="text-white text-wrap">Rua Teófilo dos Santos, 1555, Morada do Sol</span>
         </div>
         <div className="flex items-center gap-4">
           <div className="bg-red-700 rounded-full p-2">
             <img className="w-4 xs:w-5" src={phone} alt="telefone" />
           </div>
-          <span className="text-white">(86) 98152-1510 / (86) 99577-6691</span>
+          <span className="text-white text-wrap">(86) 98152-1510 / (86) 99577-6691</span>
         </div>
         <div className="flex items-center gap-4">
           <div className="bg-red-700 rounded-full p-2">
             <img className="w-4 xs:w-5" src={email} alt="email" />
           </div>
-          <span className="text-white">adm@ramov.com.br</span>
+          <span className="text-white text-wrap">adm@ramov.com.br</span>
         </div>
       </div>
       <div className="h-full flex flex-col items-center gap-5">
