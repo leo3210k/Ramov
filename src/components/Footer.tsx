@@ -16,7 +16,7 @@ function Footer() {
           © 2024 KDP SOLUÇÕES EM ENGENHARIA – <br></br> Todos os direitos reservados.
         </span>
       </div>
-      <div className="flex flex-col gap-4 text-sm xs:text-base">
+      <div className="flex flex-col gap-4 text-sm xs:text-base font-medium">
         <div className="flex items-center gap-4">
           <div className="bg-red-700 rounded-full p-2">
             <img className="w-5" src={location} alt="localidade" />
