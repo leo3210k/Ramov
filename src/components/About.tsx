@@ -7,7 +7,7 @@ function About() {
         <span className="self-start text-lg md:text-xl text-white font-medium border-b-[1px] border-white tracking-tight leading-10 pb-2">
           Quem Somos?
         </span>
-        <span className="text-sm text-white leading-5">
+        <span className="text-xs sm:text-sm text-white leading-5">
           A RamoV Engenharia é uma empresa especializada em oferecer soluções
           completas e integradas no campo da engenharia. Nosso compromisso é
           proporcionar serviços de alta qualidade, com foco em inovação,
