@@ -19,19 +19,19 @@ function Footer() {
       <div className="flex flex-col gap-4 text-sm xs:text-base font-medium">
         <div className="flex items-center gap-4">
           <div className="bg-red-700 rounded-full p-2">
-            <img className="w-5" src={location} alt="localidade" />
+            <img className="w-4 xs:w-5" src={location} alt="localidade" />
           </div>
           <span className="text-white font-medium">Rua Teófilo dos Santos, 1555, Morada do Sol</span>
         </div>
         <div className="flex items-center gap-4">
           <div className="bg-red-700 rounded-full p-2">
-            <img className="w-5" src={phone} alt="telefone" />
+            <img className="w-4 xs:w-5" src={phone} alt="telefone" />
           </div>
           <span className="text-white font-medium">(86) 98152-1510 / (86) 99577-6691</span>
         </div>
         <div className="flex items-center gap-4">
           <div className="bg-red-700 rounded-full p-2">
-            <img className="w-5" src={email} alt="email" />
+            <img className="w-4 xs:w-5" src={email} alt="email" />
           </div>
           <span className="text-white font-medium">adm@ramov.com.br</span>
         </div>
