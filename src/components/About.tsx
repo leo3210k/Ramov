@@ -3,7 +3,7 @@ import React from "react";
 function About() {
   return (
     <div className="flex flex-col justify-center items-start gap-4 py-16 bg-about bg-center bg-cover bg-no-repeat p-10">
-      <div className="w-1/3 flex flex-col gap-4 bg-mine_shaft_op rounded-sm p-6">
+      <div className="md:w-1/3 flex flex-col gap-4 bg-mine_shaft_op rounded-sm p-6">
         <span className="self-start text-lg md:text-xl text-white font-medium border-b-[1px] border-white tracking-tight pb-2">
           Quem Somos?
         </span>
@@ -15,7 +15,7 @@ function About() {
           nossos clientes de todos os tamanhos.
         </span>
       </div>
-      <div className="w-1/3 flex flex-col gap-4 bg-mine_shaft_op rounded-sm p-6">
+      <div className="md:w-1/3 flex flex-col gap-4 bg-mine_shaft_op rounded-sm p-6">
         <span className="self-start text-xl text-white font-medium border-b-[1px] border-white tracking-tight pb-2">
           Por que Somos Diferentes?
         </span>
