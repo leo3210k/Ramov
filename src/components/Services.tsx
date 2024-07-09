@@ -4,7 +4,7 @@ import WhatsappButton from './utils/WhatsappButton';
 
 function Services() {
   return (
-    <div className="flex flex-col items-center gap-6 bg-alabaster py-14 px-3 md:px-0">
+    <div className="flex flex-col items-center gap-6 bg-alabaster py-14 px-6 xs:px-3 md:px-0">
       <div className="text-xs text-center text-mine_shaft font-semibold border-solid border-[1px] border-mine_shaft rounded-full uppercase py-3 px-6">
         contrate nossos serviços!
       </div>
