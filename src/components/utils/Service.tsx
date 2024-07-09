@@ -14,7 +14,7 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
   const [knowMore, setKnowMore] = useState(false)
 
   return (
-    <div className={`w-52 ${knowMore ? 'h-auto' : 'h-[25.6rem]'} flex flex-col items-center`}>
+    <div className={`xs:w-52 ${knowMore ? 'h-auto' : 'h-[25.6rem]'} flex flex-col items-center`}>
       <div className={`service w-full basis-[90%] flex flex-col justify-between items-center ${background} bg-${position} bg-cover`}>
         <div className="flex justify-center items-center bg-white px-1 py-1 shadow-3xl">
           <img className="w-20" src={dark_brand} alt="brand" />
