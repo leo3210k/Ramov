@@ -49,7 +49,7 @@ module.exports = {
         'laudo&consult-consult-2': "url('/src/assets/services/report/laudo&consult-consult-2.jpg')",
       },
       boxShadow: {
-        '3xl': 'rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;',
+        '3xl': '0px 22px 70px 4px rgba(0, 0, 0, 0.56);',
       },
       borderImage: {
         custom: 'border-image: fill 1 linear-gradient(transparent, #1E1F1C);',
