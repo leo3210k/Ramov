@@ -1,6 +1,0 @@
-Hero
-tirar o height
-Services
-colocar os cards w-full
-Benefits
-align items center nos elementos
