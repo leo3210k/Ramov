@@ -9,7 +9,7 @@ const Item_list = ({ number, text }: { number: string, text: string }) => {
         <span className="text-3xl font-semibold text-punga">{ number }</span>
         <img className="bg-mine_shaft p-2" src={right_down_arrow} alt="right_down_arrow" />
       </div>
-      <div className="h-full flex px-4">
+      <div className="h-full flex px-4 pt-2">
         <span className="text-sm text-mine_shaft font-medium">{ text }</span>
       </div>
     </div>
