@@ -1,6 +1,7 @@
 import React from 'react';
 import WhatsappButton from './utils/WhatsappButton';
 import dark_brand from '../assets/icons/brand_dark.svg';
+import profile from '../assets/images/matheus.svg';
 
 function Hero() {
   return (
@@ -19,6 +20,7 @@ function Hero() {
         </span>
         <WhatsappButton text="Solicitar orçamento!" color="green" classes="self-center lg:self-start" />
       </div>
+      <img src={profile} alt="perfil" />
     </div>
   );
 }
