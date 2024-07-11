@@ -10,7 +10,7 @@ const Item_list = ({ number, title, text }: { number: string, title: string, tex
         <span className="text-sm xs:text-base text-center font-semibold text-punga">{ title }</span>
         <img className="bg-mine_shaft p-2" src={right_down_arrow} alt="right_down_arrow" />
       </div>
-      <div className="h-full flex px-4 pt-2">
+      <div className="h-full flex px-4 py-2">
         <span className="text-xs xs:text-sm text-mine_shaft font-medium">{ text }</span>
       </div>
     </div>
