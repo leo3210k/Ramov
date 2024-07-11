@@ -28,7 +28,7 @@ function Services() {
         <Service title="Operação - " title_bold="Planejamento de Controle e Manutenção" background="bg-oper-pcm-2" />
         <Service title="Operação - " title_bold="PMOC" background="bg-oper-pmoc-2" />
         <Service title="Operação - " title_bold="Plano de Rigging" background="bg-oper-rigging-5" />
-        <Service title="Laudo Técnico -" title_bold="ARK" background="bg-laudo&consult-laudo-3" />
+        <Service title="Laudo Técnico -" title_bold="ART" background="bg-laudo&consult-laudo-3" />
         <Service title="Consultoria " title_bold="Online/Presencial" background="bg-laudo&consult-consult-2" />
       </div>
       <WhatsappButton text="faça um orçamento" color="royal_blue"/>
