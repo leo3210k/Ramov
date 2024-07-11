@@ -13,7 +13,7 @@ function Services() {
         <b><i>Serviços Especializados</i></b>
       </h1>
       <div className="flex flex-wrap justify-center gap-x-5 gap-y-10 md:mx-24 mt-4">
-        <Service title="Projeto - " title_bold="AVAC" background="bg-proj-climatizacao-5" />
+        <Service title="Projeto - " title_bold="Climatização" background="bg-proj-climatizacao-5" />
         <Service title="Projeto - " title_bold="Exaustão" background="bg-proj-exaustao-3" />
         <Service title="Projeto - " title_bold="Máquinas de Fluxo" background="bg-proj-maqflux-4" />
         <Service title="Projeto - " title_bold="Combate contra Incêndio" position="right" background="bg-proj-contra-incendio-2" />
