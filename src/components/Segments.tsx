@@ -2,7 +2,7 @@ import React from 'react';
 import WhatsappButton from './utils/WhatsappButton';
 import right_down_arrow from '../assets/icons/right_down_arrow.svg'
 
-const Item_list = ({ number, title, text }: { number: string, title: string, text: string }) => {
+const ItemList = ({ number, title, text }: { number: string, title: string, text: string }) => {
   return (
     <div className="w-full xs:w-[24rem] xs:h-[14rem] flex flex-col border-[1px] border-mine_shaft">
       <div className="flex justify-between items-center gap-x-2 border-b-[1px] border-mine_shaft p-2">
@@ -28,42 +28,42 @@ function Segments() {
         <b><i>ideais para:</i></b>
       </h1>
       <div className="flex justify-center items-center flex-wrap gap-x-5 gap-y-10 mt-8 mx-8 xs:mx-12">
-        <Item_list number="01" title="Projetos e Instalações" 
+        <ItemList number="01" title="Projetos e Instalações" 
           text="Empresas de construção, agronegócio e indústrias.
           Parques, buffets, escolas e condomínios.
           Residências de alto padrão e edifícios comerciais.
           Serviços principais: ar-condicionado, refrigeração, exaustão, sistemas mecânicos, bombas e 
           ventiladores, sistemas contra incêndio, análise estrutural." 
         />
-        <Item_list number="02" title="Manutenção e Operação" 
+        <ItemList number="02" title="Manutenção e Operação" 
           text="Empresas de manutenção de ar condicionado.
           Empresas de transporte e frotas de veículos.
           Hospitais e indústrias.
           Serviços principais: PMOC, planos de manutenção, plano de rigging, manutenção de sistemas 
           de climatização." 
         />
-        <Item_list number="03" title="Conformidade e Segurança" 
+        <ItemList number="03" title="Conformidade e Segurança" 
           text="Indústrias e armazéns.
           Construtoras e oficinas mecânicas.
           Instituições de ensino e órgãos públicos.
           Serviços principais: adequação às normas NR (11, 12, 13, 35), adequação às normas NBR, 
           treinamentos, laudos de conformidade e segurança." 
         />
-        <Item_list number="04" title="Consultoria e Laudos Técnicos" 
+        <ItemList number="04" title="Consultoria e Laudos Técnicos" 
           text="Pequenas empresas e startups.
           Empresas de seguros e órgãos públicos.
           Empresas que precisam de responsável técnico.
           Serviços principais: emissão de laudos técnicos, consultoria online e presencial, laudos 
           de sinistros, laudos de segurança." 
         />
-        <Item_list number="05" title="Sistemas de Gases" 
+        <ItemList number="05" title="Sistemas de Gases" 
           text="Hospitais, clínicas e laboratórios.
           Indústrias químicas.
           Consultórios médicos.
           Serviços principais: instalação e manutenção de sistemas de gases, adequação às normas, 
           segurança em instalações de gases." 
         />
-        <Item_list number="06" title="Treinamentos e Capacitação" 
+        <ItemList number="06" title="Treinamentos e Capacitação" 
           text="Instituições de ensino e órgãos públicos.
           Indústrias e empresas em geral.
           Empresas que buscam atualização normativa.
