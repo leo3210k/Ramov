@@ -27,12 +27,42 @@ function Segments() {
         <b><i>ideais para:</i></b>
       </h1>
       <div className="flex justify-center items-center flex-wrap gap-x-5 gap-y-10 mt-8 mx-12">
-        <Item_list number="01" text="Empresas de construção, agronegócio e indústrias." />
-        <Item_list number="02" text="Locadoras e vendedores de máquinas e equipamentos." />
-        <Item_list number="03" text="Empresas de manutenção de ar condicionado." />
-        <Item_list number="04" text="Parques, buffets, escolas e condomínios." />
-        <Item_list number="05" text="Proprietários de veículos acidentados." />
-        <Item_list number="06" text="Empresas que precisam de responsável técnico." />
+        <Item_list number="01" text="Empresas de construção, agronegócio e indústrias.
+          Parques, buffets, escolas e condomínios.
+          Residências de alto padrão e edifícios comerciais.
+          Serviços principais: ar-condicionado, refrigeração, exaustão, sistemas mecânicos, bombas e 
+          ventiladores, sistemas contra incêndio, análise estrutural." 
+        />
+        <Item_list number="02" text="Empresas de manutenção de ar condicionado.
+          Empresas de transporte e frotas de veículos.
+          Hospitais e indústrias.
+          Serviços principais: PMOC, planos de manutenção, plano de rigging, manutenção de sistemas 
+          de climatização." 
+        />
+        <Item_list number="03" text="Indústrias e armazéns.
+          Construtoras e oficinas mecânicas.
+          Instituições de ensino e órgãos públicos.
+          Serviços principais: adequação às normas NR (11, 12, 13, 35), adequação às normas NBR, 
+          treinamentos, laudos de conformidade e segurança." 
+        />
+        <Item_list number="04" text="Pequenas empresas e startups.
+          Empresas de seguros e órgãos públicos.
+          Empresas que precisam de responsável técnico.
+          Serviços principais: emissão de laudos técnicos, consultoria online e presencial, laudos 
+          de sinistros, laudos de segurança." 
+        />
+        <Item_list number="05" text="Hospitais, clínicas e laboratórios.
+          Indústrias químicas.
+          Consultórios médicos.
+          Serviços principais: instalação e manutenção de sistemas de gases, adequação às normas, 
+          segurança em instalações de gases." 
+        />
+        <Item_list number="06" text="Instituições de ensino e órgãos públicos.
+          Indústrias e empresas em geral.
+          Empresas que buscam atualização normativa.
+          Serviços principais: treinamentos em conformidade e segurança, cursos de capacitação, 
+          workshops de normas regulamentadoras." 
+        />
       </div>
       <WhatsappButton text="contratar serviço" color="royal_blue"/>
     </div>
