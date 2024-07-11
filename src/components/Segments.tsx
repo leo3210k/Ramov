@@ -12,7 +12,10 @@ const ItemList = ({ number, title, text, main_services }: { number: string, titl
       </div>
       <div className="h-full flex px-4 py-2">
         <span className="text-xs xs:text-sm text-mine_shaft font-medium">{ text }</span>
-        <span className="text-xs xs:text-sm text-mine_shaft font-medium">{ text }</span>
+        <span className="text-xs xs:text-sm text-mine_shaft font-medium">
+          <b>Serviços principais: </b>
+          { main_services }
+        </span>
       </div>
     </div>
   )
