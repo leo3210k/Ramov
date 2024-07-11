@@ -26,7 +26,7 @@ function Services() {
         <Service title="Conformidade e Segurança - " title_bold="Adequação às Normas Brasileiras" background="bg-conf-nr35-2" />
         <Service title="Conformidade e Segurança - " title_bold="Treinamentos" background="bg-conf-treinamento-2" />
         <Service title="Operação - " title_bold="Planejamento de Controle e Manutenção" background="bg-oper-pcm-2" />
-        <Service title="Operação - " title_bold="Plano de Manutenção, Operação e Controle" background="bg-oper-pmoc-2" />
+        <Service title="Operação - " title_bold="PMOC" background="bg-oper-pmoc-2" />
         <Service title="Operação - " title_bold="Plano de Rigging" background="bg-oper-rigging-5" />
         <Service title="Laudo Técnico -" title_bold="ARK" background="bg-laudo&consult-laudo-3" />
         <Service title="Consultoria " title_bold="Online/Presencial" background="bg-laudo&consult-consult-2" />
