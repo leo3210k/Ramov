@@ -35,50 +35,44 @@ function Segments() {
         <ItemList number="01" title="Projetos e Instalações" 
           text="Empresas de construção, agronegócio e indústrias.
           Parques, buffets, escolas e condomínios.
-          Residências de alto padrão e edifícios comerciais.
-          ar-condicionado, refrigeração, exaustão, sistemas mecânicos, bombas e 
-          ventiladores, sistemas contra incêndio, análise estrutural." 
-          main_services=""
+          Residências de alto padrão e edifícios comerciais. " 
+          main_services="ar-condicionado, refrigeração, exaustão, sistemas mecânicos, bombas e 
+          ventiladores, sistemas contra incêndio, análise estrutural."
         />
         <ItemList number="02" title="Manutenção e Operação" 
           text="Empresas de manutenção de ar condicionado.
           Empresas de transporte e frotas de veículos.
-          Hospitais e indústrias.
-          PMOC, planos de manutenção, plano de rigging, manutenção de sistemas 
-          de climatização." 
-          main_services=""
+          Hospitais e indústrias." 
+          main_services=" PMOC, planos de manutenção, plano de rigging, manutenção de sistemas 
+          de climatização."
         />
         <ItemList number="03" title="Conformidade e Segurança" 
           text="Indústrias e armazéns.
           Construtoras e oficinas mecânicas.
-          Instituições de ensino e órgãos públicos.
-          adequação às normas NR (11, 12, 13, 35), adequação às normas NBR, 
-          treinamentos, laudos de conformidade e segurança." 
-          main_services=""
+          Instituições de ensino e órgãos públicos. " 
+          main_services="adequação às normas NR (11, 12, 13, 35), adequação às normas NBR, 
+          treinamentos, laudos de conformidade e segurança."
         />
         <ItemList number="04" title="Consultoria e Laudos Técnicos" 
           text="Pequenas empresas e startups.
           Empresas de seguros e órgãos públicos.
-          Empresas que precisam de responsável técnico.
-          emissão de laudos técnicos, consultoria online e presencial, laudos 
-          de sinistros, laudos de segurança." 
-          main_services=""
+          Empresas que precisam de responsável técnico." 
+          main_services=" emissão de laudos técnicos, consultoria online e presencial, laudos 
+          de sinistros, laudos de segurança."
         />
         <ItemList number="05" title="Sistemas de Gases" 
           text="Hospitais, clínicas e laboratórios.
           Indústrias químicas.
-          Consultórios médicos.
-          instalação e manutenção de sistemas de gases, adequação às normas, 
-          segurança em instalações de gases." 
-          main_services=""
+          Consultórios médicos. " 
+          main_services="instalação e manutenção de sistemas de gases, adequação às normas, 
+          segurança em instalações de gases."
         />
         <ItemList number="06" title="Treinamentos e Capacitação" 
           text="Instituições de ensino e órgãos públicos.
           Indústrias e empresas em geral.
-          Empresas que buscam atualização normativa.
-          treinamentos em conformidade e segurança, cursos de capacitação, 
-          workshops de normas regulamentadoras." 
-          main_services=""
+          Empresas que buscam atualização normativa." 
+          main_services=" treinamentos em conformidade e segurança, cursos de capacitação, 
+          workshops de normas regulamentadoras."
         />
       </div>
       <WhatsappButton text="contratar serviço" color="royal_blue"/>
