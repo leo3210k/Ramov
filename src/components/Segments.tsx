@@ -27,7 +27,7 @@ function Segments() {
         <span>Nossos serviços são </span> 
         <b><i>ideais para:</i></b>
       </h1>
-      <div className="flex justify-center items-center flex-wrap gap-x-5 gap-y-10 mt-8 mx-12">
+      <div className="flex justify-center items-center flex-wrap gap-x-5 gap-y-10 mt-8 mx-8 xs:mx-12">
         <Item_list number="01" title="Projetos e Instalações" 
           text="Empresas de construção, agronegócio e indústrias.
           Parques, buffets, escolas e condomínios.
