@@ -7,7 +7,7 @@ const Item_list = ({ number, title, text }: { number: string, title: string, tex
     <div className="w-full xs:w-[24rem] xs:h-[14rem] flex flex-col border-[1px] border-mine_shaft">
       <div className="flex justify-between items-center border-b-[1px] border-mine_shaft p-2">
         <span className="text-3xl font-semibold text-punga">{ number }</span>
-        <span className="text-sm xs:text-base font-semibold text-punga">{ title }</span>
+        <span className="text-sm xs:text-base text-center font-semibold text-punga">{ title }</span>
         <img className="bg-mine_shaft p-2" src={right_down_arrow} alt="right_down_arrow" />
       </div>
       <div className="h-full flex px-4 pt-2">
