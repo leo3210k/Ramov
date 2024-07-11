@@ -4,7 +4,7 @@ import right_down_arrow from '../assets/icons/right_down_arrow.svg'
 
 const Item_list = ({ number, title, text }: { number: string, title: string, text: string }) => {
   return (
-    <div className="w-full xs:w-[24rem] h-[14rem] flex flex-col border-[1px] border-mine_shaft">
+    <div className="w-full xs:w-[24rem] xs:h-[14rem] flex flex-col border-[1px] border-mine_shaft">
       <div className="flex justify-between items-center border-b-[1px] border-mine_shaft p-2">
         <span className="text-3xl font-semibold text-punga">{ number }</span>
         <span className="text-base font-semibold text-punga">{ title }</span>
