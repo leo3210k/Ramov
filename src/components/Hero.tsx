@@ -20,7 +20,7 @@ function Hero() {
         </span>
         <WhatsappButton text="Solicitar orçamento!" color="green" classes="self-center lg:self-start" />
       </div>
-      <img className="w-1/2" src={profile} alt="perfil" />
+      <img className="h-full" src={profile} alt="perfil" />
     </div>
   );
 }
