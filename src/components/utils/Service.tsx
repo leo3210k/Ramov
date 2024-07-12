@@ -36,7 +36,7 @@ function Service({ title, title_bold, description, background, position="center"
           <img onClick={() => setKnowMore(!knowMore)} className={`cursor-pointer 
             ${knowMore ? 'rotate-180' : 'rotate-0'} transition-transform ease-in-out duration-700`} src={down_arrow} alt="down_arrow" />
         </div>
-        <span className={`${knowMore ? 'h-full' : 'h-0'} text-white transition-[height] ease-in-out duration-700 overflow-hidden`}>
+        <span className={`${knowMore ? 'h-full' : 'h-0'} text-xs text-white transition-[height] ease-in-out duration-700 overflow-hidden`}>
           { description }
         </span>
       </div>
