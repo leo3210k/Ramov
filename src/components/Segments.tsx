@@ -8,7 +8,7 @@ const ItemList = ({ number, title, text, main_services }: { number: string, titl
       <div className="flex justify-between items-center gap-x-2 border-b-[1px] border-mine_shaft p-2">
         <span className="text-3xl font-semibold text-punga">{ number }</span>
         <span className="text-sm xs:text-base text-center font-semibold text-mine_shaft">{ title }</span>
-        <img className="bg-mine_shaft p-2" src={right_down_arrow} alt="right_down_arrow" />
+        <img className="w-[2.6rem] bg-mine_shaft p-2" src={right_down_arrow} alt="right_down_arrow" />
       </div>
       <div className="h-full px-4 py-2">
         <span className="text-xs xs:text-sm text-mine_shaft font-medium">{ text }</span>
