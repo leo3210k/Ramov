@@ -6,7 +6,7 @@ const ItemList = ({ text }: { text: string }) => {
   return (
     <div className="flex items-center gap-3">
       <div className="min-w-fit bg-red-700 rounded-full p-1">
-        <img src={right_arrow} alt="right_arrow" />
+        <img className="w-5" src={right_arrow} alt="right_arrow" />
       </div>
       <span className="text-white">{ text }</span>
     </div>
