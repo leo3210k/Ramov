@@ -13,3 +13,9 @@
     font-size: 30px;
   }
 }
+
+@media (min-width: 3150px) { 
+  html {
+    font-size: 36px;
+  }
+}
