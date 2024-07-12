@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import './Service.css';
 import dark_brand from '../../assets/icons/brand_dark.svg'
 import down_arrow from '../../assets/icons/down_arrow.svg'
