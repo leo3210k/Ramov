@@ -13,11 +13,11 @@ function App() {
   return (
     <div className="App scroll-smooth">
       <Hero />
-      <Contact />
       <Services />
       <WhatsappFixed />
       <Benefits />
       <Segments />
+      <Contact />
       <About />
       <Footer />
     </div>
