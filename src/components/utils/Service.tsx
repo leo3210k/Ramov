@@ -6,11 +6,12 @@ import down_arrow from '../../assets/icons/down_arrow.svg'
 interface ServiceProps {
   title: string;
   title_bold: string; 
+  description: string; 
   background: string;
   position?: string;
 }
 
-function Service({ title, title_bold, background, position="center" }: ServiceProps) {
+function Service({ title, title_bold, description, background, position="center" }: ServiceProps) {
   const [knowMore, setKnowMore] = useState(false)
 
   return (
@@ -36,7 +37,7 @@ function Service({ title, title_bold, background, position="center" }: ServicePr
             ${knowMore ? 'rotate-180' : 'rotate-0'} transition-transform ease-in-out duration-700`} src={down_arrow} alt="down_arrow" />
         </div>
         <span className={`${knowMore ? 'h-full' : 'h-0'} text-white transition-[height] ease-in-out duration-700 overflow-hidden`}>
-          Teste Teste TesteTesteTesteTeste TesteTesteTeste Teste
+          { description }
         </span>
       </div>
     </div>
