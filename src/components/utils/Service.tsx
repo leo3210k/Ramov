@@ -30,7 +30,18 @@ function Service({ title, title_bold, description, background, position="center"
           </div>
         </div>
       </div>
-      
+      <div>
+        <div className={`xs:w-52 ${knowMore ? 'h-full' : 'h-[2.5rem]'} flex flex-col items-center transition-[height] ease-in-out duration-700 bg-mine_shaft overflow-hidden px-4 py-2`}>
+          <div className='w-full flex justify-between items-center'>
+            <span className="text-white font-medium tracking-tighter">Saiba Mais</span>
+            <img onClick={() => setKnowMore(!knowMore)} className={`cursor-pointer 
+              ${knowMore ? 'rotate-180' : 'rotate-0'} transition-transform ease-in-out duration-700`} src={down_arrow} alt="down_arrow" />
+          </div>
+          <span className={`text-xs text-white pt-2`}>
+            { description }
+          </span>
+        </div>
+      </div>
     </div>
   );
 }
