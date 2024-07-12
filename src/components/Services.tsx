@@ -20,7 +20,7 @@ function Services() {
         conforto térmico e eficiência energética, sempre em conformidade com as normas técnicas."
         background="bg-proj-climatizacao-5" />
         <Service title="Projeto - " title_bold="Exaustão" 
-        description="somos especialistas em desenvolver projetos de exaustão 
+        description="Somos especialistas em desenvolver projetos de exaustão 
         eficientes e personalizados. Atuamos no dimensionamento e especificação de sistemas de exaustão 
         para diferentes aplicações, garantindo a qualidade do ar, a remoção eficaz de poluentes e a 
         conformidade com as normas técnicas."
@@ -32,7 +32,7 @@ function Services() {
         específicas dos clientes."
         background="bg-proj-maqflux-4" />
         <Service title="Projeto - " title_bold="Combate contra Incêndio" position="right" 
-        description="A RamoV Engenharia projeta sistemas de combate a incêndio completos, incluindo sprinklers, 
+        description="Projetamos sistemas de combate a incêndio completos, incluindo sprinklers, 
         hidrantes, detectores de fumaça e alarmes. Utilizamos tecnologias avançadas para análise de riscos e 
         garantimos conformidade com todas as normas e regulamentos de segurança."
         background="bg-proj-contra-incendio-2" />
@@ -42,7 +42,7 @@ function Services() {
         normas técnicas e garantindo a confiabilidade para aplicações residenciais, comerciais e hospitalares."
         background="bg-proj-gases-1" />
         <Service title="Projeto - " title_bold="Mecânico" 
-        description="Na RamoV Engenharia, oferecemos soluções completas em projetos mecânicos para diversas 
+        description="Oferecemos soluções completas em projetos mecânicos para diversas 
         indústrias. Desenvolvemos desde o design e modelagem 3D até a análise estrutural e dinâmica, garantindo 
         componentes otimizados e sistemas eficientes. Nosso foco é a inovação e a sustentabilidade."
         background="bg-proj-mec-1" />
@@ -82,7 +82,7 @@ function Services() {
         estratégico de manutenções preventivas e preditivas, e a implementação de sistemas avançados de monitoramento."
         background="bg-oper-pcm-2" />
         <Service title="Operação - " title_bold="PMOC" 
-        description="Na RamoV Engenharia, desenvolvemos Planos de Manutenção, Operação e Controle (PMOC) 
+        description="Somos experientes na construção de Planos de Manutenção, Operação e Controle (PMOC) 
         para sistemas de climatização, garantindo a qualidade do ar e a eficiência energética. Nossos PMOCs 
         são elaborados conforme as normas vigentes, abrangendo inspeções periódicas, limpeza e manutenção 
         preventiva de equipamentos de ar-condicionado."
