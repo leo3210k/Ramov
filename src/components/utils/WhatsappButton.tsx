@@ -11,7 +11,7 @@ function WhatsappButton({ color, text, classes }: { color: string, text: string,
     hover:bg-transparent hover:text-royal_blue ${classes}`} 
     href="http://wa.me/5586988858856">
       { text }
-      <WhatsappIcon className="min-w-fit fill-white group-hover:fill-royal_blue"/>
+      <WhatsappIcon className="fill-white group-hover:fill-royal_blue"/>
     </a>
   );
 }
