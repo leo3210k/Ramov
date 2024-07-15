@@ -18,7 +18,7 @@ function Services() {
         para diversos ambientes. Dimensionamos e especificamos sistemas eficientes como VRF, Inverter 
         e Split Ducted, além de soluções discretas como difusores lineares. Nossos projetos garantem 
         conforto térmico e eficiência energética, sempre em conformidade com as normas técnicas."
-        background="bg-proj-climatizacao-5" position="bg-[center_right]"/>
+        background="bg-proj-climatizacao-5" position="bg-[center_right]" />
         <Service title="Projeto - " title_bold="Exaustão" 
         description="Somos especialistas em desenvolver projetos de exaustão 
         eficientes e personalizados. Atuamos no dimensionamento e especificação de sistemas de exaustão 
@@ -55,7 +55,7 @@ function Services() {
         description="Desenvolvemos projetos de adequação à NR-11, garantindo a segurança em transporte, movimentação, 
         armazenagem e manuseio de materiais. Realizamos análise de riscos, implementação de medidas de segurança e 
         treinamentos específicos, assegurando a conformidade com as normas regulamentadoras e um ambiente de trabalho seguro."
-        background="bg-conf-nr11-4" position="bg-[center_right_-1rem]"/>
+        background="bg-conf-nr11-4" position="bg-[center_right_-1rem]" />
         <Service title="Conformidade e Segurança - " title_bold="Vasos de pressão, Caldeiras e Compressores" 
         description="Desenvolvemos soluções adequação de caldeiras, compressores e vasos de pressão à NR-13. Oferecemos 
         inspeção detalhada, testes de segurança, emissão de relatórios técnicos e treinamento para operadores. Nosso objetivo 
@@ -71,7 +71,7 @@ function Services() {
         garantir que sua empresa esteja em conformidade com as regulamentações vigentes no país. Contamos 
         com uma equipe de especialistas que realiza auditorias detalhadas, identifica possíveis não conformidades 
         e propõe as melhores práticas para adequação."
-        background="bg-conf-nr35-2" />
+        background="bg-conf-nbr-3" position="bg-[center_right_-10rem]" />
         <Service title="Conformidade e Segurança - " title_bold="Treinamentos" 
         description="Oferecemos treinamentos especializados para garantir segurança e eficiência no 
         trabalho, incluindo NR-11 (transporte e manuseio de materiais), NR-12 (operação de máquinas), 
