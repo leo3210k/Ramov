@@ -67,7 +67,10 @@ function Services() {
         trabalhadores em atividades acima de dois metros."
         background="bg-conf-nr35-2" />
         <Service title="Conformidade e Segurança - " title_bold="Adequação às Normas Brasileiras" 
-        description=""
+        description="Nosso serviço de adequação às normas brasileiras oferece soluções completas para 
+        garantir que sua empresa esteja em conformidade com as regulamentações vigentes no país. Contamos 
+        com uma equipe de especialistas que realiza auditorias detalhadas, identifica possíveis não conformidades 
+        e propõe as melhores práticas para adequação."
         background="bg-conf-nr35-2" />
         <Service title="Conformidade e Segurança - " title_bold="Treinamentos" 
         description="Oferecemos treinamentos especializados para garantir segurança e eficiência no 
