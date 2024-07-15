@@ -18,7 +18,7 @@ function Services() {
         para diversos ambientes. Dimensionamos e especificamos sistemas eficientes como VRF, Inverter 
         e Split Ducted, além de soluções discretas como difusores lineares. Nossos projetos garantem 
         conforto térmico e eficiência energética, sempre em conformidade com as normas técnicas."
-        background="bg-proj-climatizacao-5" />
+        background="bg-proj-climatizacao-5" position="bg-[center_right]"/>
         <Service title="Projeto - " title_bold="Exaustão" 
         description="Somos especialistas em desenvolver projetos de exaustão 
         eficientes e personalizados. Atuamos no dimensionamento e especificação de sistemas de exaustão 
@@ -31,11 +31,11 @@ function Services() {
         tecnologias avançadas para simulação e análise, sempre adaptando as soluções às necessidades 
         específicas dos clientes."
         background="bg-proj-maqflux-4" />
-        <Service title="Projeto - " title_bold="Combate contra Incêndio" position="right" 
+        <Service title="Projeto - " title_bold="Combate contra Incêndio"
         description="Projetamos sistemas de combate a incêndio completos, incluindo sprinklers, 
         hidrantes, detectores de fumaça e alarmes. Utilizamos tecnologias avançadas para análise de riscos e 
         garantimos conformidade com todas as normas e regulamentos de segurança."
-        background="bg-proj-contra-incendio-2" />
+        background="bg-proj-contra-incendio-2" position="bg-[center_right_-1rem]" />
         <Service title="Projeto - " title_bold="Gases GLP e Medicinais" 
         description="A RamoV Engenharia projeta sistemas de gases, incluindo GLP e gases medicinais. 
         Dimensionamos e especificamos sistemas de armazenamento e distribuição seguros e eficientes, atendendo às 
@@ -51,11 +51,11 @@ function Services() {
         Oferecemos análise de riscos, implementação de dispositivos de segurança, e treinamento de colaboradores, 
         garantindo a conformidade com as normas regulamentadoras e um ambiente de trabalho seguro."
         background="bg-conf-nr12-2" />
-        <Service title="Conformidade e Segurança - " title_bold="Movimentação de carga" position="right" 
+        <Service title="Conformidade e Segurança - " title_bold="Movimentação de carga"
         description="Desenvolvemos projetos de adequação à NR-11, garantindo a segurança em transporte, movimentação, 
         armazenagem e manuseio de materiais. Realizamos análise de riscos, implementação de medidas de segurança e 
         treinamentos específicos, assegurando a conformidade com as normas regulamentadoras e um ambiente de trabalho seguro."
-        background="bg-conf-nr11-4" />
+        background="bg-conf-nr11-4" position="bg-[center_right_-1rem]"/>
         <Service title="Conformidade e Segurança - " title_bold="Vasos de pressão, Caldeiras e Compressores" 
         description="Desenvolvemos soluções adequação de caldeiras, compressores e vasos de pressão à NR-13. Oferecemos 
         inspeção detalhada, testes de segurança, emissão de relatórios técnicos e treinamento para operadores. Nosso objetivo 
@@ -80,7 +80,7 @@ function Services() {
         de Manutenção (PCM) de máquinas para maximizar a eficiência operacional e reduzir paradas 
         imprevistas. Nosso serviço abrange a análise detalhada das condições operacionais, o planejamento 
         estratégico de manutenções preventivas e preditivas, e a implementação de sistemas avançados de monitoramento."
-        background="bg-oper-pcm-2" />
+        background="bg-oper-pcm-2" position="bg-[center_left_-5rem]" />
         <Service title="Operação - " title_bold="PMOC" 
         description="Somos experientes na construção de Planos de Manutenção, Operação e Controle (PMOC) 
         para sistemas de climatização, garantindo a qualidade do ar e a eficiência energética. Nossos PMOCs 
@@ -98,7 +98,7 @@ function Services() {
         análises completas sobre o estado de máquinas, equipamentos e instalações. Nossos laudos abrangem 
         inspeções técnicas, diagnósticos de falhas, avaliação de conformidade com normas vigentes e 
         recomendações para melhorias e correções."
-        background="bg-laudo&consult-laudo-3" />
+        background="bg-laudo&consult-laudo-3" position="bg-[center_left_-8rem]" />
         <Service title="Consultoria " title_bold="Online/Presencial" 
         description="Disponibilizamos serviços de consultoria online e presencial para atender às 
         diversas necessidades de nossos clientes com flexibilidade e eficiência. Nossa equipe de especialistas 
