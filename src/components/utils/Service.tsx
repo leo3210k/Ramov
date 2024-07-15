@@ -11,12 +11,12 @@ interface ServiceProps {
   position?: string;
 }
 
-function Service({ title, title_bold, description, background, position="center" }: ServiceProps) {
+function Service({ title, title_bold, description, background, position="bg-center" }: ServiceProps) {
   const [knowMore, setKnowMore] = useState(false)
 
   return (
     <div className={`flex flex-col items-center`}>
-      <div className={`service xs:w-52 h-[22.75rem] flex flex-col justify-between items-center ${background} bg-${position} bg-cover`}>
+      <div className={`service xs:w-52 h-[22.75rem] flex flex-col justify-between items-center ${background} ${position} bg-cover`}>
         <div className="flex justify-center items-center bg-white px-1 py-1 shadow-3xl">
           <img className="w-20" src={dark_brand} alt="brand" />
         </div>
