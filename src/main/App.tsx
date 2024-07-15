@@ -12,7 +12,6 @@ import Footer from '../components/Footer';
 function App() {
   return (
     <div className="App scroll-smooth">
-      <Hero />
       <Contact />
       <Services />
       <WhatsappFixed />
