@@ -13,10 +13,11 @@ function Hero() {
           <b><i>RamoV Engenharia!</i></b>
         </h1>
         <span className="text-sm md:text-base lg:text-sm font-medium	text-punga">
-          Na KDP Soluções em Engenharia, oferecemos uma variedade de serviços 
-          de laudos técnicos e ART (Anotação de Responsabilidade Técnica) para 
-          garantir a conformidade, segurança e eficiência dos seus equipamentos 
-          e processos.
+          Bem-vindo à RamoV Engenharia! Oferecemos soluções completas e integradas em 
+          engenharia mecânica, focando em inovação, segurança e eficiência. Nossos serviços 
+          incluem projetos de ar-condicionado, refrigeração, sistemas mecânicos e mais. Com uma 
+          equipe experiente e capacitada, garantimos excelência, compromisso e sustentabilidade. 
+          Transforme suas ideias em realidade com a RamoV Engenharia!
         </span>
         <WhatsappButton text="Solicitar orçamento!" color="green" classes="self-center lg:self-start" />
       </div>
