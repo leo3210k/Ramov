@@ -9,8 +9,8 @@ function Hero() {
       <div className="h-full lg:h-auto lg:w-2/6 flex flex-col justify-between lg:justify-normal text-left gap-6 p-8 lg:p-2 lg:mx-auto">
         <img className="w-36 md:w-40 lg:w-36" src={dark_brand} alt="brand" />
         <h1 className="text-3xl md:text-4xl lg:text-3xl tracking-tight leading-10">
-          <span>Garanta a Conformidade e Segurança dos seus Equipamentos com </span>
-          <b><i>Nossos Laudos Técnicos e ARTs!</i></b>
+          <span>Garanta a Qualidade e Conformidade dos seus Projetos com a </span>
+          <b><i>RamoV Engenharia!</i></b>
         </h1>
         <span className="text-sm md:text-base lg:text-sm font-medium	text-punga">
           Na KDP Soluções em Engenharia, oferecemos uma variedade de serviços 
