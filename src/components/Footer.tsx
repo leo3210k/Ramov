@@ -13,7 +13,7 @@ function Footer() {
       <div className="flex flex-col items-center">
         <img className="w-32 xs:w-48" src={light_brand} alt="brand" />
         <span className="text-xs xs:text-sm text-white text-center font-medium">
-          © 2024 KDP SOLUÇÕES EM ENGENHARIA – <br></br> Todos os direitos reservados.
+          © 2024 RAMOV SOLUÇÕES EM ENGENHARIA – <br></br> Todos os direitos reservados.
         </span>
       </div>
       <div className="flex flex-col gap-4 text-sm xs:text-base font-medium">
