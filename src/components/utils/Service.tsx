@@ -16,7 +16,7 @@ function Service({ title, title_bold, description, background, position="bg-cent
 
   return (
     <div className={`flex flex-col items-center`}>
-      <div className={`service xs:w-52 h-[22.75rem] flex flex-col justify-between items-center ${background} ${position} bg-cover`}>
+      <div className={`service w-full xs:w-52 h-[22.75rem] flex flex-col justify-between items-center ${background} ${position} bg-cover`}>
         <div className="flex justify-center items-center bg-white px-1 py-1 shadow-3xl">
           <img className="w-20" src={dark_brand} alt="brand" />
         </div>
