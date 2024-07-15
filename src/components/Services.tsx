@@ -45,7 +45,7 @@ function Services() {
         description="Oferecemos soluções completas em projetos mecânicos para diversas 
         indústrias. Desenvolvemos desde o design e modelagem 3D até a análise estrutural e dinâmica, garantindo 
         componentes otimizados e sistemas eficientes. Nosso foco é a inovação e a sustentabilidade."
-        background="bg-proj-mec-1" />
+        background="bg-proj-mec-1" position="bg-[center_right_-6rem]" />
         <Service title="Conformidade e Segurança -  " title_bold="Equipamentos e Máquinas" 
         description="A RamoV Engenharia especializa-se em adequar máquinas e equipamentos à NR-12. 
         Oferecemos análise de riscos, implementação de dispositivos de segurança, e treinamento de colaboradores, 
