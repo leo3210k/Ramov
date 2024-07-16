@@ -11,7 +11,6 @@ module.exports = {
       },
       colors: {
         alabaster: '#fafafa',
-        sunglow: '#FBCA2E',
         green: '#00cf0a',
         green_darker: '#10BE00',
         thunder: '#222122',
@@ -22,7 +21,6 @@ module.exports = {
         punga: '#473C16',
         royal_blue: '#3049E6',
         gravel: '#545155',
-        selective_yellow: '#FCBC04'
       },
       backgroundImage: {
         'hero': "url('/src/assets/images/matheus.svg')",
