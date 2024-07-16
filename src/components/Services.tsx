@@ -71,7 +71,7 @@ function Services() {
         garantir que sua empresa esteja em conformidade com as regulamentações vigentes no país. Contamos 
         com uma equipe de especialistas que realiza auditorias detalhadas, identifica possíveis não conformidades 
         e propõe as melhores práticas para adequação."
-        background="bg-conf-nbr-3" position="bg-[center_right_-10rem]" />
+        background="bg-conf-nbr-3" position="bg-[center_right_-9rem]" />
         <Service title="Conformidade e Segurança - " title_bold="Treinamentos" 
         description="Oferecemos treinamentos especializados para garantir segurança e eficiência no 
         trabalho, incluindo NR-11 (transporte e manuseio de materiais), NR-12 (operação de máquinas), 
