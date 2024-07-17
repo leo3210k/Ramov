@@ -42,7 +42,9 @@ function Footer() {
         </div>
         <div className="flex gap-4">
           <div className="bg-gravel rounded-full cursor-pointer hover:scale-125 transition-transform ease-in-out duration-150 p-2">
-            <img className="w-6" src={linkedin} alt="linkedin" />
+            <a href="https://www.linkedin.com/in/ramov-projetos-e-solu%C3%A7%C3%B5es-de-engenharia-8b144331a/" target="_blank">
+              <img className="w-6" src={linkedin} alt="linkedin" />
+            </a>
           </div>
           <div className="bg-gravel rounded-full cursor-pointer hover:scale-125 transition-transform ease-in-out duration-150 p-2">
             <a href="https://www.instagram.com/ramovengenharia?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
