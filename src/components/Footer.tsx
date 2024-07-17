@@ -33,7 +33,7 @@ function Footer() {
           <div className="bg-red-700 rounded-full p-2">
             <img className="w-4 xs:w-5" src={email} alt="email" />
           </div>
-          <span className="text-white text-wrap">adm@ramov.com.br</span>
+          <span className="text-white text-wrap">contato@ramoveng.com.br</span>
         </div>
       </div>
       <div className="h-full flex flex-col items-center gap-5">
